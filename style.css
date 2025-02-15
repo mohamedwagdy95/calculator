@@ -48,3 +48,6 @@ form input.equal{
 form input.operator{
     color: #ff6b33;
 }
+.calculator form input:hover{
+    border-radius: 10px;
+} 

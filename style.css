@@ -50,4 +50,5 @@ form input.operator{
 }
 .calculator form input:hover{
     border-radius: 10px;
+    background: blue;
 } 

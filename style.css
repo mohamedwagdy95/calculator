@@ -50,6 +50,6 @@ form input.operator{
 }
 .clicked{
     border-radius: 10px;
-    background: aqua;
+    background: red;
   
 }

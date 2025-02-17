@@ -48,3 +48,8 @@ form input.equal{
 form input.operator{
     color: #ff6b33;
 }
+.clicked{
+    border-radius: 10px;
+    background: aqua;
+  
+}

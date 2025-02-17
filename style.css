@@ -30,7 +30,6 @@
     color: #fff;
     cursor: pointer;
     margin: 10px;
-    transition: background 0.3s;
 }
 form .display{
     display: flex;
@@ -49,7 +48,3 @@ form input.equal{
 form input.operator{
     color: #ff6b33;
 }
-.calculator form input:hover{
-    border-radius: 10px;
-    background: red;
-} 
